@@ -52,7 +52,9 @@ nav a:hover {
 	color: #FEC260;
 
 }
-
+.text_a {
+	text-decoration: none;
+}
 
 #chou:hover {
 	background-color: #D8E3E7;
