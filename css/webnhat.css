@@ -10,27 +10,18 @@
 	display: flex;
 	flex-wrap: nowrap;
 }
-.flex_left {
-	flex:35%;
-	padding: 10px;
-	background-color: #423F3E;
-}
-.flex_right {
-	flex:65%;
-	padding: 10px;
-	background-color: #2B2B2B;
 
-}
 nav {
 	background-color: black;
 	overflow: hidden;
+	padding: 20px
 	}
 nav a {
 	text-decoration: none;
 	color: white;
 	display: block;
 	text-align: center;
-	padding: 15px;	
+	padding: 14px 20px;	
 }
 nav a:hover {
 	background-color: #ddd;
@@ -149,5 +140,13 @@ footer:hover {
 	}
 	.friends_item {
 		flex:50%;
+	}
+		nav a {
+	background-color: black;
+	overflow: hidden;
+	display: block;
+	padding: 20px;
+	text-align: center;
+	
 	}
 }
