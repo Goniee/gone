@@ -71,7 +71,10 @@ nav a:hover {
 	background-color: #D8E3E7;
 	color:#132C33;
 }
-
+#lam:hover {
+	background-color: #D8E3E7;
+	color:#132C33;
+}
 
 #friends_container {
 	display: flex;
