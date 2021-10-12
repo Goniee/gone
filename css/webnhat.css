@@ -10,6 +10,16 @@
 	display: flex;
 	flex-wrap: nowrap;
 }
+.flex_left {
+	flex:35%;
+	padding: 10px;
+	background-color: #423F3E;
+}
+.flex_right {
+	flex:65%;
+	padding: 0px;
+	background-color: #2B2B2B;
+}
 
 nav {
 	background-color: black;
@@ -44,14 +54,6 @@ nav a:hover {
 
 }
 
-#left_text {
-	float: left;
-	padding: 10px;
-}
-#right_text {
-	float: right;
-	padding: 10px
-}
 
 #chou:hover {
 	background-color: #D8E3E7;
