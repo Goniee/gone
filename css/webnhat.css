@@ -57,22 +57,27 @@ nav a:hover {
 #chou:hover {
 	background-color: #D8E3E7;
 	color:#132C33;
+	text-decoration: none;
 }
 #binh:hover {
 	background-color: #D8E3E7;
 	color:#132C33;
+	text-decoration: none;
 }
 #lim:hover {
 	background-color: #D8E3E7;
 	color:#132C33;
+	text-decoration: none;
 }
 #kiet:hover {
 	background-color: #D8E3E7;
+	text-decoration: none;
 	color:#132C33;
 }
 #lam:hover {
 	background-color: #D8E3E7;
 	color:#132C33;
+	text-decoration: none;
 }
 
 #friends_container {
