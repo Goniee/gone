@@ -99,8 +99,11 @@ nav a:hover {
 }
 .friends_desc {
 	margin: 0px 5px 5px 0px;
-	color: #50E3C2;
-	
+	color: #50E3C2;	
+}
+.texta {
+	color: #A35096;
+	text-decoration: none;
 }
 #Hobby_text {
 	color: #FEC260;
