@@ -1,7 +1,11 @@
+#body {
+	background-color: black;
+}
+
 #web_text {
 	text-align: center;
 	padding: 45px;
-	background-color: #171010;
+	background-color: #black;
 	color: #FFAA4C;
 	margin: 0;
 }
@@ -13,15 +17,15 @@
 .flex_left {
 	flex:50%;
 	padding: 10px;
-	background-color: #423F3E;
+	background-color: #171010;
 }
 .flex_right {
 	flex:50%;
 	padding: 10px;
-	background-color: #2B2B2B;
+	background-color: gray;
 }
 nav {
-	background-color: black;
+	background-color: #171717;
 	overflow: hidden;
 
 	padding: 20px;
@@ -37,26 +41,45 @@ nav a:hover {
 	background-color: #ddd;
 	color: black;
 }
+
 #text_i4 {
 	color: white;
+}
+#text_i3 {
+	color: black
 }
 #MinhNhat_text {
 
 	padding: 0px;
-	color: #FEC260;
+	color: #FFDD93;
 	text-align: center;
 
 
 }
 #Tuantuong_text {
 	padding: 0px;
-	color: #FEC260;
+	color: #FFDD93;
 	text-align: center;
 }
 
+#ttcn_text {
+	color: #F2A365;
+}
 
+#gt_text {
+	color: #F2A365;
+}
+
+.gtnhat_text {
+	color: white;
+}
+
+.gttuong_text {
+	color: black;
+}
 
 #img {
+	color: #F2A365;
 	display: flex;
 	flex-wrap: wrap;
 }
